@@ -2,5 +2,5 @@
 
 
 
-#genAI[Link Text](/genAI)
-* [NLP](DATA_SCIENCE/genAI/NLP)
+#[genAI](/genAI)
+* [NLP](/genAI/NLP)
