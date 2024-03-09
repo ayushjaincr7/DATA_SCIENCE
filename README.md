@@ -3,4 +3,4 @@
 
 
 #[genAI](/genAI)
-* [NLP](/genAI/NLP)
+* [NLP](/genAI/nlp)
