@@ -3,3 +3,4 @@
 
 
 #genAI[Link Text](DATA_SCIENCE/genAI)
+* [NLP](DATA_SCIENCE/genAI/NLP)
