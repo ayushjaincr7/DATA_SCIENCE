@@ -1,6 +1,6 @@
 # DATA_SCIENCE
 
-#[Python Basic](/001_Python/01_Basic)
+#[Python Basic](/001_Python/01_BASIC)
 
 #[genAI](/genAI)
 * [NLP](/genAI/nlp)
